@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638934916228547486
-    m_Hash: 2007037161
+      ticks: 638950525037260855
+    m_Hash: 602427078
   m_LockFileStatus:
     m_FilePath: C:/Users/CAEM/Practica_4/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638934916228600348
-    m_Hash: 3012357569
+      ticks: 638950525037270929
+    m_Hash: 1708353862
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -1206,6 +1206,7 @@ m_PackageAssets:
         - 3.0.35
         - 3.0.36
         - 3.0.37
+        - 3.0.38
         compatible:
         - 1.0.2
         - 1.0.6
